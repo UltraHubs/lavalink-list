@@ -19,6 +19,21 @@ Password : "www.freelavalink.ga"
 Secure : false
 ```
 
+Hosted by @ [Lenskizz#4473]([https://dsc.gg/extinctop](https://ultra-vps.servehttp.com/dashboard/))
+```bash
+Host : 103.141.69.247
+Port : 2333
+Password : "NamiYogurt121"
+Secure : false
+```
+Hosted by @ [OGGY#9889](https://www.freelavalink.ga)
+```bash
+Host : lavalink.oops.wtf
+Port : 2000
+Password : "www.freelavalink.ga"
+Secure : false
+```
+
 Hosted by @ [Hatry4](https://www.hatry4.xyz)
 ```bash
 Host : lavalink.hatry4.xyz
